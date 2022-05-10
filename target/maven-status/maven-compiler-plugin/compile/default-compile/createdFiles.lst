@@ -1,3 +1,6 @@
 fr\objectware\entrainement\model\Player.class
 fr\objectware\entrainement\MainKafkaSpring.class
 fr\objectware\entrainement\controller\TestController.class
+fr\objectware\entrainement\controller\MessageController.class
+fr\objectware\entrainement\model\Messages.class
+fr\objectware\entrainement\model\User.class

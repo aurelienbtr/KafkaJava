@@ -68,6 +68,7 @@ public final class AppConfig {
 //    }
 
     public static String getTopicName() { return config.getString("app.common.topic-name");}
+    public static String getTopicName2() { return config.getString("app.common.topic-name2");}
 
 
 }
